@@ -1,89 +1,100 @@
-# Hi, I’m YOUR_FULL_NAME 👋
+<!-- README.md -->
+<!-- Glowing dark theme with metrics — India highlighted world map (replace placeholders) -->
 
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img alt="Profile Metrics" src="https://metrics.lecoq.io/embed?username=YOUR_USERNAME&template=classic" width="700"/>
-  </a>
-</p>
-
-## About me
-Software Engineer / Computer Science Student / Full-Stack Developer — choose one that fits.
-
-A short 1–2 line summary about you: what you build, what you're passionate about, and what value you bring to teams and projects.
-
-**Location:** CITY, India 🇮🇳 · **Open to:** INTERNSHIP / FULL-TIME / FREELANCE (choose)  
-**Pronouns:** (optional) · **Email:** you@example.com · **Resume:** [Download PDF](LINK_TO_RESUME)
-
----
-
-## Tech & Tools
-**Languages:** JavaScript · TypeScript · Python · C++ · Java  
-**Frameworks / Tools:** React · Node.js · Express · MongoDB · Docker · Git · Linux  
-**Other:** GitHub Actions · REST · GraphQL · AWS (S3, Lambda) — list your key ones
-
----
-
-## Highlight Projects
-> Short, relevant projects that recruiters want to see. Keep each item to 1–2 lines.
-
-- **Project One** — [repo-link](https://github.com/YOUR_USERNAME/REPO1)  
-  Short description — tech used — outcome (e.g., deployed, 2k users).
-- **Project Two** — [repo-link](https://github.com/YOUR_USERNAME/REPO2)  
-  Short description — tech used — outcome.
-- **Capstone / Final Year Project** — [repo-link](https://github.com/YOUR_USERNAME/REPO3)  
-  Short description — your role — key achievements.
-
-> Tip: put the projects most relevant to the job on top.
-
----
-
-## Experience & Education (short)
-**Company / Role** — Month Year – Month Year  
-Short 2–3 bullet points about what you built and measurable outcomes (e.g., improved API latency by 30%).
-
-**College / Degree** — College Name — Expected/Graduation Year  
-Relevant coursework: Data Structures, OS, Networks, Databases (pick top 3–4)
-
----
-
-## Open Source & Community
-- Contributed to **REPO_NAME** — short note on contribution
-- Maintainer of **REPO_NAME** — short note
-
----
-
-## GitHub Stats & Activity
-<p align="left">
-  <!-- GitHub stats card -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" alt="Your GitHub stats"/>
-  <!-- Top Languages -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react" alt="Top languages"/>
-</p>
-
----
-
-## World Map (visitors / stargazers) — India highlighted
 <p align="center">
-  <!-- Replace this image link with your metrics worldmap SVG after configuring metrics -->
-  <img alt="World map with India highlighted" src="PATH_TO_YOUR_WORLD_MAP_SVG" width="700"/>
+  <img alt="banner" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/.github/banner-dark-glow.png" width="100%"/>
 </p>
 
-> I recommend using **lowlighter/metrics** (or your preferred metrics generator). Configure the world map plugin to highlight **India** in bright blue (#00A3FF or your preferred glowing blue).
+# Hi, I’m **YOUR_FULL_NAME** 👋
+**YOUR_SHORT_TITLE** • CITY, India 🇮🇳 • Open to: `INTERNSHIP | FULL-TIME | FREELANCE`
+
+<p align="center">
+  <!-- Main metrics card (classic template) -->
+  <img src="https://metrics.lecoq.io/embed?username=YOUR_USERNAME&template=classic&theme=dark&accent=%2300A3FF" alt="Profile metrics" width="780"/>
+</p>
 
 ---
 
-## Contact / Hire me
-- **Email:** you@example.com  
-- **LinkedIn:** https://www.linkedin.com/in/YOUR_LINKEDIN  
-- **Portfolio / Website:** https://your-portfolio.com
+## About
+SHORT BIO: One concise paragraph about what you build, the problems you solve, and what you're looking for.
 
-If you’d like to connect — feel free to email me or DM on LinkedIn.
+**📬 Contact:** [Email](mailto:YOUR_EMAIL) • [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) • [Portfolio](https://your-portfolio.com)
 
 ---
 
-## Want the exact config & final README?
-I can:
-- Fill this file with your real details, and
-- Provide the exact metrics embed / worldmap SVG (with India colored glowing blue) ready to paste.
+## Tech Stack
+**Languages:** JavaScript · TypeScript · Python · C++ · Java  
+**Frameworks / Tools:** React · Node.js · Express · MongoDB · Docker · GitHub Actions · AWS  
+**Other:** REST · GraphQL · SQL/NoSQL · Linux
 
-**Tell me the items from the checklist below and I’ll produce the final `README.md` with everything filled in.**
+---
+
+## Selected Projects
+- **Project One** — [repo link](https://github.com/YOUR_USERNAME/REPO1)  
+  Short 1-line description — Tech: React, Node.js — Outcome (deployed / users / key metric).
+- **Project Two** — [repo link](https://github.com/YOUR_USERNAME/REPO2)  
+  Short description — Tech: Python, Flask — Outcome.
+- **Final Year / Capstone** — [repo link](https://github.com/YOUR_USERNAME/REPO3)  
+  Short description — Role & results.
+
+> Tip: add 1–2 links to live demos or video walkthroughs if available.
+
+---
+
+## Experience & Education
+**Company Name** — Role (Month Year – Month Year)  
+- Achievement 1 (quantified if possible).  
+- Achievement 2.
+
+**College / Degree** — College Name — Expected GRAD_YEAR  
+Relevant coursework: Data Structures, Computer Networks, Operating Systems, Databases
+
+---
+
+## GitHub Activity & Stats
+<p align="center">
+  <!-- GitHub stat cards (dark theme + glowing accent) -->
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&icon_color=00A3FF&title_color=00A3FF" width="360"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&title_color=00A3FF" width="360"/>
+</p>
+
+---
+
+## Contributions skyline (3D) & Commit Calendar
+<p align="center">
+  <!-- Example metrics "skyline" (3D contributions) -->
+  <img alt="Contributions skyline" src="https://metrics.lecoq.io/embed?username=YOUR_USERNAME&template=classic&plugins=skyline,calendar&theme=dark&accent=%2300A3FF" width="780"/>
+</p>
+
+---
+
+## World Map — India highlighted (glow-blue)
+<p align="center">
+  <!-- Replace PATH_TO_WORLD_MAP_SVG with the SVG you generate using the metrics tool (see notes below) -->
+  <img alt="World map with India highlighted" src="PATH_TO_WORLD_MAP_SVG" width="780"/>
+</p>
+
+*The world map above highlights India in glowing blue (`#00A3FF`). Replace the image with the final SVG generated from your metrics instance (instructions below).*
+
+---
+
+## Open Source & Contributions
+- Contributed to **REPO_NAME** — short note on contributions (issues/PRs).
+- Maintainer of **REPO_NAME** — short note.
+
+---
+
+## How I work
+- Clear communication, test-driven mindset, and iterative deliveries.  
+- Comfortable with remote and on-site collaboration.  
+
+---
+
+## Want the polished version (I’ll fill placeholders)
+If you'd like I will:
+1. Replace every placeholder with your real info.  
+2. Generate the world-map SVG with India highlighted in glowing blue (#00A3FF) and provide the exact `PATH_TO_WORLD_MAP_SVG` that you can paste into the README.  
+3. Provide a GitHub Action snippet (or shared-instance instruction) to auto-generate the metrics images on each push.
+
+---
+
